@@ -30,7 +30,8 @@
 
 -(void)doSomething
 {
-    NSLog(@"doSomething");
+    NSLog(@"doSomething-begain");
+    NSLog(@"doSomething-end");
 }
 
 - (void)viewDidLoad {
