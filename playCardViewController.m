@@ -32,6 +32,7 @@
 {
     NSLog(@"doSomething-begain");
     NSLog(@"doSomething-end");
+    NSLog(@"doSomething-end2");
 }
 
 - (void)viewDidLoad {
